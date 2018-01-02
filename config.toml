@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Myšlenky dne Otce Fura"
+title = "Myšlenky dne otce Fura"
 languageCode = "cs-cz"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -8,13 +8,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
     name = "Jan Novotný"
-    bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+    bio = "Alias Novoj. Vývojář v FG Forrest, autor Kafemlejnek.TV, spoluorganizátor jOpenSpace ne-konference."
     avatar = "img/avatar.png"
 
 
 [Params]
-    subtitle = "Just another site" # Subtitle of your site
-    description = " John Doe's Personal blog about everything" # Description of your site
+    subtitle = "Dává je jen zřídka, obvykle jim není moc rozumět a často vám ani k ničemu nejsou." # Subtitle of your site
+    description = "Profesní blog." # Description of your site
     opengraph = true
     readmore = false # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
